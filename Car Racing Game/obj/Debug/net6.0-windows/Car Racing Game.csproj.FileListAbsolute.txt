@@ -1,0 +1,36 @@
+D:\fucking game\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.exe
+D:\fucking game\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.deps.json
+D:\fucking game\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.runtimeconfig.json
+D:\fucking game\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.dll
+D:\fucking game\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.pdb
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.csproj.AssemblyReference.cache
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car_Racing_Game.Form1.resources
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car_Racing_Game.Properties.Resources.resources
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.csproj.GenerateResource.cache
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.AssemblyInfoInputs.cache
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.AssemblyInfo.cs
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.csproj.CoreCompileInputs.cache
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.dll
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\refint\Car Racing Game.dll
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.pdb
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.genruntimeconfig.cache
+D:\fucking game\Car Racing Game\obj\Debug\net6.0-windows\ref\Car Racing Game.dll
+D:\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.exe
+D:\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.deps.json
+D:\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.runtimeconfig.json
+D:\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.dll
+D:\Car Racing Game\bin\Debug\net6.0-windows\Car Racing Game.pdb
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.csproj.AssemblyReference.cache
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car_Racing_Game.Form1.resources
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car_Racing_Game.Properties.Resources.resources
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.csproj.GenerateResource.cache
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.AssemblyInfoInputs.cache
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.AssemblyInfo.cs
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.csproj.CoreCompileInputs.cache
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.dll
+D:\Car Racing Game\obj\Debug\net6.0-windows\refint\Car Racing Game.dll
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.pdb
+D:\Car Racing Game\obj\Debug\net6.0-windows\Car Racing Game.genruntimeconfig.cache
+D:\Car Racing Game\obj\Debug\net6.0-windows\ref\Car Racing Game.dll
